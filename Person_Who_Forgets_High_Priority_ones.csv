@@ -1,0 +1,14 @@
+Task,Frequency,Priority,CompletionRate
+Take Medication,7,10,0.7
+Take Medication,7,10,0.6
+Take Medication,7,10,0.65
+Pay Bills,1,9,0.3
+Pay Bills,1,9,0.2
+Pay Bills,1,9,0.5
+Grocery Shopping,3,5,0.9
+Grocery Shopping,3,5,0.8
+Grocery Shopping,3,5,0.95
+Exercise,4,4,0.85
+Exercise,4,4,0.75
+Exercise,4,4,0.8
+

@@ -1,0 +1,30 @@
+Task,Frequency,Priority,CompletionRate
+Take Medication,7,10,0.6
+Take Medication,7,10,0.8
+Take Medication,7,10,0.4
+Take Medication,7,10,0.5
+Take Medication,7,10,0.7
+Take Medication,7,10,0.6
+Take Medication,7,10,0.4
+Take Medication,7,10,0.9
+Take Medication,7,10,0.5
+Take Medication,7,10,0.3
+Take Medication,7,10,0.6
+Take Medication,7,10,0.5
+Take Medication,7,10,0.8
+Take Medication,7,10,0.6
+Pay Bills,1,8,0.9
+Pay Bills,1,8,0.8
+Pay Bills,1,8,0.7
+Pay Bills,1,8,0.6
+Pay Bills,1,8,0.8
+Pay Bills,1,8,0.9
+Pay Bills,1,8,0.7
+Pay Bills,1,8,0.6
+Pay Bills,1,8,0.5
+Pay Bills,1,8,0.9
+Pay Bills,1,8,0.8
+Pay Bills,1,8,0.8
+Pay Bills,1,8,0.9
+Pay Bills,1,8,0.7
+Go to cinema, 1,5, 0.9
